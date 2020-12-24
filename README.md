@@ -1,5 +1,6 @@
 # Hyung Cheol Geum
-I received bachelor's degree in Physics.  
+e-mail : calidris.snipe@gmail.com  
+I received Bachelor's degree in Physics. (with Military service)  
 I am going to start master's degree in Computer Engineerning this year.  
 # My interests
 - Computer Vision

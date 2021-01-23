@@ -1,4 +1,4 @@
-# About me (HC Geum)
+# :eyes: About me (HC Geum)
 E-mail : calidris.snipe@gmail.com  
 I received bachelor's degree in Physics.  
 Currently, I am a graduate student about Artificial Intelligence. 

@@ -4,6 +4,6 @@ I received bachelor's degree in Physics.
 Currently, I am a graduate student about Artificial Intelligence. 
 # :heart: My interests
 - Computer Vision (Video Representation, Visual Geometry)
-- Speech and Acoustics (Speech Enahancement, Sepration, Dereverberation)
+- Speech and Acoustics (Speech Enahancement, Dereverberation, Sepration)
 - ML/DL Compression, Optimization
 - Machine Learning, Deep Learning

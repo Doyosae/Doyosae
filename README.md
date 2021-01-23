@@ -7,6 +7,3 @@ Currently, I am a graduate student about Artificial Intelligence.
 - Speech and Acoustics (Speech Enahancement, Sepration, Dereverberation)
 - ML/DL Compression, Optimization
 - Machine Learning, Deep Learning
-# Far future  
-- Sensor Fusion, SLAM
-- Multi Modal  

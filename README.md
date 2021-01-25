@@ -6,4 +6,4 @@ Currently, I am a graduate student about Artificial Intelligence.
 - Computer Vision (Video Representation, Visual Geometry, Multview Geometry)
 - Speech and Acoustics (Speech Enahancement, Dereverberation, Sepration)
 - Efficient Learning, ML/DL Optimization
-- Machine Learning, Deep Learning
+- Unsupervised Learning, Self-Supervised Learning

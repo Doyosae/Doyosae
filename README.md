@@ -1,4 +1,4 @@
-# :kissing_heart: About me (HC Geum)
+# :kissing_heart: About me
 E-mail : calidris.snipe@gmail.com  
 I received bachelor's degree in Physics.  
 Currently, I am a graduate student about Artificial Intelligence. 

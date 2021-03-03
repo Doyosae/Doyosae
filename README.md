@@ -1,7 +1,7 @@
 # :kissing_heart: About me
 E-mail : calidris.snipe@gmail.com  
 I received bachelor's degree in Physics.  
-Currently, I am a graduate student about Artificial Intelligence. 
+Currently, I am a graduate student about Artificial Intelligence, Computer Vision  
 # :heart: My interests
 - Computer Vision  
   Geometry based Visual Perception  

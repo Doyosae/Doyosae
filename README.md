@@ -4,11 +4,10 @@ I received bachelor's degree in Physics.
 Currently, I am a graduate student about Artificial Intelligence, Computer Vision  
 # :heart: My interests
 - Computer Vision  
-  Geometry based Visual Perception  
-  Sensor Fusion  
+  Visual Perception (based on Visual Geometry, Multi-View Geometry)  
+  Sensor Fusion (Camera + LiDAR)  
 - Speech, Acoustics  
   Speech Separation, Enhancement, Dereverberation    
 - Machine Learning, Deep Learning  
-  Representation Learning for Audio, Video, Visual  
-  Unsupervised Learning, Self-Supervised Learning  
+  Representation Learning, Unsupervised Learning, Self-Supervised Learning  
   Efficient AI, ML/DL Optimization  

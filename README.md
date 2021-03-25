@@ -9,5 +9,4 @@ Currently, I am a graduate student about Artificial Intelligence, Computer Visio
 - Speech, Acoustics  
   Speech Separation, Enhancement, Dereverberation    
 - Machine Learning, Deep Learning  
-  Representation Learning, Unsupervised Learning, Self-Supervised Learning  
-  Efficient AI, ML/DL Optimization  
+  Representation Learning, USL, SSL, Efficient AI, ML/DL Optimization  

@@ -1,7 +1,7 @@
 # :kissing_heart: About me  
 E-mail : calidris.snipe@gmail.com  
 BS: Physics  
-MS: Artificial Engineering (Computer Vision)  
+MS: Artificial Intelligence (Computer Vision)  
 # :heart: My interests
 - Computer Vision  
   Visual Perception (based on Visual Geometry, Multi-View Geometry)  
@@ -9,4 +9,5 @@ MS: Artificial Engineering (Computer Vision)
 - Speech, Acoustics  
   Speech Separation, Enhancement, Dereverberation    
 - Machine Learning, Deep Learning  
-  Representation Learning, USL, SSL, Efficient AI, ML/DL Optimization  
+  Representation Learning, USL, SSL  
+  Efficient AI, ML/DL Optimization  

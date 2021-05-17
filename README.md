@@ -3,7 +3,7 @@ E-mail: calidris.snipe@gmail.com
 BS: Physics  
 MS: Artificial Intelligence  
 # :heart: My interests  
-- Computer Vision      
+- Computer Vision  
   Visual Perception (based on Visual Geometry, Multi-View Geometry)  
   Sensor Fusion (Camera + LiDAR)  
 - Speech, Acoustics, Signal Processing    

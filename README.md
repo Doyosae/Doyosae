@@ -1,5 +1,5 @@
 # :bear: About me  
-E-mail: calidris.snipe@gmail.com or calidris.snipe@postech.ac.kr
+E-mail: calidris.snipe@gmail.com or calidris.snipe@postech.ac.kr  
 (BS) Physic  
 (MS) Computer Vision and Effient AI  
 # :panda_face: My interests  

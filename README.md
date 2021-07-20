@@ -1,7 +1,7 @@
 # :bear: About me  
 E-mail: calidris.snipe@gmail.com or calidris.snipe@postech.ac.kr  
-(BS) Physics  
-(MS) Computer Vision and Effient AI  
+B: Physics  
+M: Computer Vision and Effient AI  
 # :panda_face: My interests  
 - Computer Vision  
   Visual Perception (based on Visual Geometry, Multi-View Geometry)  
